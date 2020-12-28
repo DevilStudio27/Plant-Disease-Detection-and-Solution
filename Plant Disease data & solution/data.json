@@ -1,0 +1,204 @@
+{
+    "plant_disease": [
+        {
+            "name": "apple scab",
+            "symptoms": "Disease attacks both leaves and fruit.\n This fungal disease forms pale yellow or olive-green spots on the upper surface of leaves.\n Dark, velvety spots may appear on the lower surface.\n Severely infected leaves become twisted and puckered and may drop early in the summer.",
+            "management": "Prevent the initiation of primary infection cycles by reducing the germination of ascospores.\n Fungicide applications may also be made later in the season to prevent infection of old leaves, which can help reduce the amount of primary inoculum for the following season."
+        },
+        {
+            "name": "apple black rot",
+            "symptoms": "Large brown rotten areas can form anywhere on the fruit but are most common on the blossom end.\n Infected leaves develop frog-eye leaf spot.\n The circular spots with purplish or reddish edges and light tan interiors. Cankers appear as a sunken, reddish-brown area on infected branches. Cankers often have rough or cracked bark.",
+            "management": "Prune out dead or diseased branches.\n Pick all dried and shriveled fruits remaining on the trees.\n Remove infected plant material from the area.\n All infected plant parts should be burned, buried or sent to a municipal composting site.\n Be sure to remove the stumps of any apple trees you cut down.\n Dead stumps can be a source of spores."
+        },
+        {
+            "name": "apple cedar",
+            "symptoms": "Pale yellow pinhead sized spots on the upper surface of the leaves shortly after bloom.\n These gradually enlarge to bright orange-yellow spots which make the disease easy to identify.",
+            "management": "It can be controlled by spraying plants with a copper solution (0.5 to 2.0 oz/ gallon of water) at least four times between late August and late October.\n Be sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores."
+        },
+        {
+            "name": "apple rust",
+            "symptoms": "Pale yellow pinhead sized spots on the upper surface of the leaves shortly after bloom.\n These gradually enlarge to bright orange-yellow spots which make the disease easy to identify.",
+            "management": "Rust can be controlled by spraying plants with a copper solution (0.5 to 2.0 oz/ gallon of water) at least four times between late August and late October.\n Be sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores."
+        },
+        {
+            "name": "apple healthy",
+            "symptoms": "Red Delicious\n Fuji, Gala, or Honeycrisp apples while others Granny Smith, Pippin (not the Hobbit), or Golden Delicious are the healthiest apples.",
+            "management": "Apple trees require initial training to nurture a strong frame of branches so the trees can carry heavy apple crops.\n Pest control measures will be an important part of care."
+        },
+        {
+            "name": "blueberry healthy",
+            "symptoms": "Fresh blueberries are firm, dry, plump and smooth-skinned, with a silvery surface bloom and no leaves or stems. \n Size isn’t an indicator of maturity but color is – berries should be deep purple-blue to blue-black.",
+            "management": "Plump, juicy blueberries aren’t just delicious. They’re high in nutrients, antioxidants, fiber, and vitamins.\n Fortunately, for very little effort, blueberries are easy to grow—if you have the right soil conditions."
+        },
+        {
+            "name": "cherry including sour powdery mildew",
+            "symptoms": "Initial symptoms, often occurring 7 to 10 days after the onset of the first irrigation, are light roughly-circular, powdery looking patches on young, susceptible leaves (newly unfolded, and light green expanding leaves). Older leaves develop an age-related (ontogeny) resistance to powdery mildew and are naturally more resistant to infection than younger leaves.",
+            "management": "Provide adequate air circulation by not crowding plants. Site plants where they will get sufficient light of six hours or more each day.\n Minimize shade and trim trees and shrubs that block the light. Avoid over fertilization. Instead, apply a slow-release fertilizer that provides more controlled growth."
+        },
+        {
+            "name": "cherry including sour healthy",
+            "symptoms": "Montmorency tart cherries, also known as sour cherries, are bright red when harvested, and they retain that bold color when dried, frozen or juiced.\n While there are several varieties of sweet cherries, the most common is Bing. These fresh cherries are quite dark – sometimes almost purple or black.",
+            "management": "Proper fertilization not only keeps the tree healthy but also helps it resist infections and diseases. Apply a nitrogen fertilizer each spring except the first year after planting.\n Mature trees need two pounds of urea fertilizer or three to five pounds of ammonium sulfate. Sour cherry trees require minor pruning while dormant to cut away dead or diseased branches and thin out new shoots."
+        },
+        {
+            "name": "corn maize cercospora leaf spot gray leaf spot",
+            "symptoms": "Infection and lesion formation initially occur on older leaves before progressing to newer ones. Lesions at maturity are 1/8 inch in diameter and appear light gray-colored to dark tan with a brown to purple border.\n Severely affected leaves wither and die from coalescing lesions. A diagnostic feature is the presence of tiny black dots (pseudostromata) that form in leaf substomatal cavities within the grayish-tan lesions.",
+            "management": "Cultivars with good levels of resistance to the pathogen are readily available.\n Resistant cultivars help to slow the spread of the disease, but supplemental fungicidal sprays may still be needed in many situations."
+        },
+        {
+            "name": "corn maize common rust",
+            "symptoms": "A few rust pustules can always be found in corn fields throughout the growing season, symptoms generally do not appear until after tasseling. These can be easily recognized and distinguished from other diseases by the development of dark, reddish-brown pustules (uredinia) scattered over both the upper and lower surfaces of the corn leaves.\n These pustules may appear on any above ground part of the plant, but are most abundant on the leaves. Pustules appear oval to elongate in shape, are generally small, less than 1/4 inch long, and are surrounded by the leaf epidermal layer, where it has broken through.",
+            "management": "an early fungicide application may be necessary for effective disease control. Numerous fungicides are available for rust control.\n Always read the fungicide label for rates and application timing."
+        },
+        {
+            "name": "corn maize northern leaf blight",
+            "symptoms": "Large, usually oval, grey or light brown leaf spots, sometimes with dark margins, 25-150 mm long.\n The spots merge covering large parts of the leaves. The disease causes the leaves to dry out, whiter and die.\n In moist weather, brown fungal growth containing spores occurs on the spots, often in concentric zones.",
+            "management": "Before planting, choose hybrid varieties with known resistance to maize northern leaf blight.During growth,Make sure that the plants have adequate nutrients. Do not over supply nitrogen, but make sure phosphorus and potassium are at optimal levels.\n Control weeds, especially grasses that might be alternative hosts of the fungus. After harvest,collect the remains of the crop and destroy by burning or burying. Practise crop rotation; rotate with non-grass crops."
+        },
+        {
+            "name": "corn maize healthy",
+            "symptoms": "Corn is typically yellow but comes in a variety of other colors, such as red, orange, purple, blue, white, and black.",
+            "management": "Maize grows fast in hot weather and needs an even supply of moisture to avoid wilting. Always keep the plants moist by watering regularly."
+        },
+        {
+            "name": "grape black rot",
+            "symptoms": "The earliest signs of disease appear as yellow circular lesions on young leaves. As these lesions spread, they brown and sprout black fungal fruiting bodies that look similar to grains of pepper.\n With advancing disease, lesions may girdle the petiole of individual leaves, killing them. Eventually, the fungus spreads to the shoots, causing large black elliptical lessons.",
+            "management": "The best time to treat black rot of grapes is between bud break until about four weeks after bloom.\n Treating outside of this window is likely to end in frustration. However, if you want to try, captan and myclobutanil are the fungicides of choice."
+        },
+        {
+            "name": "grape esca black measles",
+            "symptoms": "During the season, the spots may coalesce over the skin surface, making berries black in appearance. Spotting can develop anytime between fruit set and a few days prior to harvest.\n Berries affected at fruit set tend not to mature and will shrivel and dry up. In addition to spotting, fruit affected later in the season will also have an acrid taste.",
+            "management": "Wine grape growers with small vineyards will often have field crews remove infected fruit prior to harvest.\n Raisins affected by measles will be discarded during harvest or at the packing house, while table grape growers will leave affected fruit on the vine."
+        },
+        {
+            "name": "grape leaf blight isariopsis leaf spot",
+            "symptoms": "On leaf surface we will see lesions which are irregularly shaped (2 to 25 mm in diameter.Initially lesions are dull red to brown in color turn black later. If disease is severe this lesions may coalesce. On berries we can see symptom similar to black rot but the entire clusters will collapse.",
+            "management": "Fungicides sprayed for other diseases in the season may help to reduce this disease."
+        },
+        {
+            "name": "grape healthy",
+            "symptoms": "For the most benefits, choose fresh, red over white grapes.",
+            "management": "Favorable environment is must for healthy grapes."
+        },
+        {
+            "name": "orange haunglongbing citrus greening",
+            "symptoms": "Common symptoms of yellowing of the veins and adjacent tissues; followed by splotchy mottling of the entire leaf, premature defoliation, dieback of twigs, decay of feeder rootlets and lateral roots, and decline in vigor, ultimately followed by the death of the entire plant. Affected trees have stunted growth, bear multiple off-season flowers (most of which fall off), and produce small, irregularly shaped fruit with a thick, pale peel that remains green at the bottom and tastes very bitter.",
+            "management": "Cultural methods include antibacterial management, sanitation, removal of infected plants, frequent scouting, and most importantly, crisis declaration.\n Certain antibiotics, specifically streptomycin and oxytetracycline is effective in the fight against citrus greening disease."
+        },
+        {
+            "name": "peach bacterial spot",
+            "symptoms": "Symptoms of this disease include fruit spots, leaf spots, and twig cankers. Leaf symptoms of bacterial spot on peaches and nectarines are generally dark, small lesions, often clustered at the leaf tip where water collects during dews and rain.",
+            "management": "Chemical sprays with copper-based bactericide and the antibiotic oxytetracycline have moderate efficacy but must be used preventatively. Copper-based sprays are applied from dormant to shuck-split phenology stages to reduce initial inoculum.\n When using copper during cover sprays, be mindful of conditions that will promote phytotoxicity, such as slow drying conditions, acidic spray mixtures, and tank mixing with foliar fertilizers or adjuvants."
+        },
+        {
+            "name": "peach healthy",
+            "symptoms": "Should not have any spots or curl.",
+            "management": "Should be watered regularly during the growing season to aid with fruit development. During dry periods, water trees every 10 to 14 days. Apply water deeply and widely, to at least the width of the canopy."
+        },
+        {
+            "name": "pepper bell bacterial spot",
+            "symptoms": "Leaf spots that appear on the lower surface of older leaves as small, pimples and on the upper leaf surface as small water-soaked spots. Eventually, the spots develop gray to tan centers with darker borders.\n Lesions enlarge during warm, humid weather. Leaves may then turn yellow, then brown.",
+            "management": "Treat seeds by soaking them for 2 minutes in a 10% chlorine bleach solution (1 part bleach; 9 parts water). Thoroughly rinse seeds and dry them before planting.\n Spray every 10-14 days with fixed copper (organic fungicide) to slow down the spread of infection. Rotate peppers to a different location if infections are severe and cover the soil with black plastic mulch or black landscape fabric prior to planting."
+        },
+        {
+            "name": "pepper bell healthy",
+            "symptoms": "Plants are short bushes with woody stems that grow brightly colored fruits. The alternating leaves are elliptical, smooth edged, and come to a distinct point",
+            "management": "Release fertilizer can be applied at bloom or the plants can be fed with a liquid fertilizer at planting and every two weeks thereafter. Avoid planting in poorly draining, cool, wet soil. Treat seeds with fungicide prior to planting to eliminate fungal pathogens."
+        },
+        {
+            "name": "potato early blight",
+            "symptoms": "The first symptoms of early blight appear as small, circular or irregular, dark-brown to black spots on the older (lower) leaves.\n Initial lesions on young, fully expanded leaves may be confused with brown spot lesions.\n Multiple lesions on the same leaf also may coalesce, or grow together, to form one mass.",
+            "management": "Select a late-season variety with a lower susceptibility to early blight.\n Time irrigation to minimize leaf wetness duration during cloudy weather and allow sufficient time for leaves to dry prior to nightfall.\n Avoid nitrogen and phosphorus deficiency."
+        },
+        {
+            "name": "potato late blight",
+            "symptoms": "The initial symptom of blight on potatoes is a rapidly spreading, watery rot of leaves which soon collapse, shrivel and turn brown.\n Brown lesions may develop on the stems.\n If allowed to spread unchecked, the disease will reach the tubers.",
+            "management": "Destroy all cull and volunteer potatoes.\n Plant late blight-free seed tubers.\nDo not mix seed lots because cutting can transmit late blight."
+        },
+        {
+            "name": "potato healthy",
+            "symptoms": "The potato plant produces white or blue flowers and yellow-green berries.\n The potato tubers grow underground.",
+            "management": "Potato plant is healthy.\n"
+        },
+        {
+            "name": "raspberry healthy",
+            "symptoms": "Raspberry plants have perennial root systems and biennial stems which are known as canes.\n Raspberry plants produce white or pink flowers with five petals which are surrounded by green sepals.\n",
+            "management": "Raspberry plant is healthy.\n"
+        },
+        {
+            "name": "soybean healthy",
+            "symptoms": "The soybean plant is usually an erect bush with woody stems and alternately arranged leaves.\n The leaves possess three individual leaflets which are oval or lance-like in shape, growing to a length of 3–10 cm.",
+            "management": "Soybean plant is healthy.\n"
+        },
+        {
+            "name": "squash powdery mildew",
+            "symptoms": "In warm, dry conditions, new spores form and easily spread the disease.\n Wind blows spores produced in leaf spots to infect other leaves.",
+            "management": "Apply fertilizer based on soil test results.\n Avoid over-applying nitrogen.\n Provide good air movement around plants through proper spacing, staking of plants and weed control."
+        },
+        {
+            "name": "strawberry leaf scorch",
+            "symptoms": "Scorched strawberry leaves are caused by a fungal infection which affects the foliage of strawberry plantings.\n Strawberries with leaf scorch may first show signs of issue with the development of small purplish blemishes that occur on the topside of leaves.\n Over time, the spots will continue to grow larger and darken.",
+            "management": "Since this fungal pathogen over winters on the fallen leaves of infect plants, proper garden sanitation is key.\n The creation of new plantings and strawberry patches is key to maintaining a consistent strawberry harvest, as older plants are more likely to show signs of severe infection."
+        },
+        {
+            "name": "strawberry healthy",
+            "symptoms": "Strawberry plants are classified as a forb or herb.\n Their lack of woody tissue causes them to be relatively short.",
+            "management": "Strawberry plant is healthy.\n"
+        },
+        {
+            "name": "tomato bacterial spot",
+            "symptoms": "Initial leaf symptoms are small, circular-to-irregular, dark lesions, which may be surrounded by a yellow halo.\n When spots are numerous, foliage turns yellow and eventually dies, leading to defoliation of the lower portion of the plant.",
+            "management": "Purchase high quality, certified disease-free seed if possible.\n Hot water treatment can be used to kill bacteria on and in seed.\n Disinfect greenhouses, tools, and equipment between seedling crops with a commercial sanitizer."
+        },
+        {
+            "name": "tomato early blight",
+            "symptoms": "Plants infected with early blight develop small black or brown spots, usually about 0.25 to 0.5 inch (6–12 mm) in diameter, on leaves, stems, and fruit.\n Leaf spots are leathery and often have a concentric ring pattern.\n They usually appear on older leaves first.\n Spots on fruit are sunken, dry, and may also have a concentric pattern; frequently they occur near the calyx end of the fruit.",
+            "management": "Destroy nightshades and volunteer tomato plants.\n Proper crop rotation is important to ensure infected plant debris decomposes.\n Apply a fungicide when environmental conditions are favourable and the first sign of disease becomes apparent."
+        },
+        {
+            "name": "tomato late blight",
+            "symptoms": "The initial symptom of blight on tomatoes is a rapidly spreading, watery rot of leaves which soon collapse, shrivel and turn brown.\n Brown lesions may develop on the stems.",
+            "management": "Tomato varieties resistant to certain races of the late blight fungus are grown where the disease occurs regularly.\n Remove any nearby volunteer tomato and potato plants and nightshades.\n Check transplants to ensure they are free of late blight before planting."
+        },
+        {
+            "name": "tomato leaf mold",
+            "symptoms": "The oldest leaves are infected first.\n Pale greenish-yellow spots, usually less than 1/4 inch, with no definite margins, form on upper sides of leaves.\n Olive-green to brown velvety mold forms on the lower leaf surface below leaf spots.",
+            "management": "Use drip irrigation and avoid watering foliage.\n Space plants to provide good air movement between rows and individual plants.\n Stake, string or prune to increase airflow in and around the plant.\n Remove crop residue at the end of the season."
+        },
+        {
+            "name": "tomato septoria leaf spot",
+            "symptoms": "Septoria leaf spot usually appears on the lower leaves after the first fruit sets.\n Spots are circular, about 1/16 to 1/4 inch in diameter with dark brown margins and tan to gray centers with small black fruiting structures.\n This disease spreads upwards from oldest to youngest growth.\n If leaf lesions are numerous, the leaves turn slightly yellow, then brown, and then whiter.",
+            "management": "Remove diseased leaves.\n Improve air circulation around the plants.\n Mulch around the base of the plants."
+        },
+        {
+            "name": "tomato spider mites two spotted spider mite",
+            "symptoms": "Leaves of mite-infested plants may turn yellow and dry up, and plants may lose vigour and die.\n The undersides of affected leaves appear tan or yellow and have a crusty texture.\n Heavy infestations of the two spotted spider mites produce fine webbing that may cover the entire plant.\n Mites are identified by shaking symptomatic leaves onto a sheet of white paper or by observing infected leaf areas with a hand lens.",
+            "management": "Natural enemies of mites are present in and around fields and can keep mite populations low.\n Many insecticides used for control of insect pests severely reduce numbers.\n Therefore, apply insecticides only as needed, rather than at regularly scheduled intervals.\n Use of overhead sprinkler irrigation may provide some relief of mite infestations."
+        },
+        {
+            "name": "tomato target spot",
+            "symptoms": "The disease starts on the older leaves and spreads upwards.\n The first signs are irregular-shaped spots (less than 1 mm) with a yellow margin.\n Some of the spots enlarge up to 10 mm and show characteristics rings, hence the name of target spot.\n Spread to all leaflets and to other leaves is rapid causing the leaves to turn yellow, collapse and die.",
+            "management": "Do not plant new crops next to older ones that have the disease.\n Remove a few branches from the lower part of the plants to allow better airflow at the base.\n Remove and burn the lower leaves as soon as the disease is seen.\n Collect and burn as much of the crop as possible when the harvest is complete."
+        },
+        {
+            "name": "tomato yellow leaf curl virus",
+            "symptoms": "Symptoms of TYLCV infection include severe stunting, reduction of leaf size, upward curling of leaves, chlorosis on leaves and flowers, and reduction of fruit production.\n This virus can cause significant yield losses from 90–100%, and it is estimated that about 7 million hectares can experience TYLCV infection or mixed virus infections annually.",
+            "management": "Treatments that are commonly used for this disease include insecticides, hybrid seeds, and growing tomatoes under greenhouse conditions.\n Other methods to control the spread of TYLCV include planting resistant lines, crop rotation, and breeding for resistance of TYLCV."
+        },
+        {
+            "name": "tomato mosaic virus",
+            "symptoms": "Mottled light and dark green on leaves.\n If plants are infected early, they may appear yellow and stunted overall.\n Leaves may be curled, malformed, or reduced in size.",
+            "management": "Purchase transplants only from reputable sources. Ask about the sanitation procedures they use to prevent disease.\n Avoid planting in fields where tomato root debris is present, as the virus can survive long-term in roots.\n Wash hands with soap and water before and during the handling of plants to reduce potential spread between plants."
+        },
+        {
+            "name": "tomato healthy",
+            "symptoms": "The tomato plant produces yellow flowers, which can develop into a cyme of 3–12, and usually a round fruit which is fleshy, smoothed skinned and can be red, pink, purple, brown, orange or yellow in color.\n The plant can be erect with short stems or vine-like with long, spreading stems.\n The stems are covered in coarse hairs and the leaves are arranged spirally.",
+            "management": "Tomato plant is healthy."
+        },
+        {
+            "name": "background",
+            "symptoms": "Disease is undefined in our system.",
+            "management": "Please try again.\n"
+        }
+    ]
+}
