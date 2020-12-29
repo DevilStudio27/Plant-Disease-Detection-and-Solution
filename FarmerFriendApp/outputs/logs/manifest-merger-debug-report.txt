@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bde938e22d372e7c1b69c36f8f972d66/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/acdbfaf1c46bae02bf38cfc4ad9bc04d/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/f3d5f3c37040ddda77236e06fa449449/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/373996e010ff3b0fc021996142110e21/tensorflow-lite-1.14.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/c0948df1aeabf225a7aa52457416bfd6/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a226fb6224369b08edb679f30c484705/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/d7c0ad774bcb2b0e7a06b901e7726115/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/446ed911c954446cd3a120b95a345a8c/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/6c6d88d5a7fb6ab12d0cedacfd7ff3ae/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/3c32f1d1b9c1e844f8bd89af66f21ef3/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/508d86c39f7d8d83047f69684d0f741d/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ec530c6b1d8f3d68ed0193763c8d74cf/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/6eb1eb323b5ba9214ca98c2dc3044cd8/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/09bacfa56d446ca87f5f7e9fa9c7672b/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e8fac26130082e820949112b5ff3954f/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/726f739e7241f09f993db2c6cce6f088/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/920bf552de1976a190626c3f998519cf/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/b090da92bd288c0714ab5220fd9c5dbe/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/d5bf4346cec214fb88035b5431060aee/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/425d973768ef61fa36883c1e8adbaabf/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ad18c6dd9cd726bfa6995f00996e575b/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/b48d458a1f012b3203481e4f6cb4573f/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e4711ed2c5672c0260ad44d293464fe5/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e10c91504c7d60b9d6c1a0bab98c7899/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/081f9908fdb09f75cd9bd56ccd941d31/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/fe237116c4820a36f05aa734ea1d2f8c/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bf0f8174cb721bdfe93c95af3d7aed00/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a3b9c4edf77c710c0b895e16350907db/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a130a1f23a9e6f3cbdb1187c285e599b/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/13e79882b8fe464e96001cd6b5b547f4/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/fd4d5e75413e87b718ca0cfb52783a09/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bafd73677600743198bbd8d94df8f9e2/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:4:9-47
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:3:9-65
+	android:versionCode
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:6:18-37
+application
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:design:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bde938e22d372e7c1b69c36f8f972d66/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bde938e22d372e7c1b69c36f8f972d66/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/f3d5f3c37040ddda77236e06fa449449/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/f3d5f3c37040ddda77236e06fa449449/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/373996e010ff3b0fc021996142110e21/tensorflow-lite-1.14.0/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/373996e010ff3b0fc021996142110e21/tensorflow-lite-1.14.0/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/425d973768ef61fa36883c1e8adbaabf/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/425d973768ef61fa36883c1e8adbaabf/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ad18c6dd9cd726bfa6995f00996e575b/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ad18c6dd9cd726bfa6995f00996e575b/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/425d973768ef61fa36883c1e8adbaabf/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:10:13-45
+	android:allowBackup
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:12:13-44
+activity#farmerfriend.DetailsActivity
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:13:9-16:72
+	android:label
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:15:17-63
+	android:theme
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:16:17-60
+	android:name
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:14:17-76
+activity#farmerfriend.MainActivity
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:17:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bde938e22d372e7c1b69c36f8f972d66/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bde938e22d372e7c1b69c36f8f972d66/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/acdbfaf1c46bae02bf38cfc4ad9bc04d/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/acdbfaf1c46bae02bf38cfc4ad9bc04d/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/f3d5f3c37040ddda77236e06fa449449/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/f3d5f3c37040ddda77236e06fa449449/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/373996e010ff3b0fc021996142110e21/tensorflow-lite-1.14.0/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/373996e010ff3b0fc021996142110e21/tensorflow-lite-1.14.0/AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/c0948df1aeabf225a7aa52457416bfd6/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/c0948df1aeabf225a7aa52457416bfd6/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a226fb6224369b08edb679f30c484705/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a226fb6224369b08edb679f30c484705/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/d7c0ad774bcb2b0e7a06b901e7726115/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/d7c0ad774bcb2b0e7a06b901e7726115/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/446ed911c954446cd3a120b95a345a8c/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/446ed911c954446cd3a120b95a345a8c/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/6c6d88d5a7fb6ab12d0cedacfd7ff3ae/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/6c6d88d5a7fb6ab12d0cedacfd7ff3ae/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/3c32f1d1b9c1e844f8bd89af66f21ef3/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/3c32f1d1b9c1e844f8bd89af66f21ef3/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/508d86c39f7d8d83047f69684d0f741d/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/508d86c39f7d8d83047f69684d0f741d/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ec530c6b1d8f3d68ed0193763c8d74cf/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ec530c6b1d8f3d68ed0193763c8d74cf/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/6eb1eb323b5ba9214ca98c2dc3044cd8/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/6eb1eb323b5ba9214ca98c2dc3044cd8/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/09bacfa56d446ca87f5f7e9fa9c7672b/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/09bacfa56d446ca87f5f7e9fa9c7672b/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e8fac26130082e820949112b5ff3954f/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e8fac26130082e820949112b5ff3954f/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/726f739e7241f09f993db2c6cce6f088/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/726f739e7241f09f993db2c6cce6f088/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/920bf552de1976a190626c3f998519cf/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/920bf552de1976a190626c3f998519cf/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/b090da92bd288c0714ab5220fd9c5dbe/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/b090da92bd288c0714ab5220fd9c5dbe/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/d5bf4346cec214fb88035b5431060aee/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/d5bf4346cec214fb88035b5431060aee/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/425d973768ef61fa36883c1e8adbaabf/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/425d973768ef61fa36883c1e8adbaabf/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ad18c6dd9cd726bfa6995f00996e575b/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/ad18c6dd9cd726bfa6995f00996e575b/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/b48d458a1f012b3203481e4f6cb4573f/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/b48d458a1f012b3203481e4f6cb4573f/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e4711ed2c5672c0260ad44d293464fe5/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e4711ed2c5672c0260ad44d293464fe5/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e10c91504c7d60b9d6c1a0bab98c7899/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/e10c91504c7d60b9d6c1a0bab98c7899/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/081f9908fdb09f75cd9bd56ccd941d31/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/081f9908fdb09f75cd9bd56ccd941d31/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/fe237116c4820a36f05aa734ea1d2f8c/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/fe237116c4820a36f05aa734ea1d2f8c/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bf0f8174cb721bdfe93c95af3d7aed00/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bf0f8174cb721bdfe93c95af3d7aed00/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a3b9c4edf77c710c0b895e16350907db/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a3b9c4edf77c710c0b895e16350907db/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a130a1f23a9e6f3cbdb1187c285e599b/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/a130a1f23a9e6f3cbdb1187c285e599b/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/13e79882b8fe464e96001cd6b5b547f4/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/13e79882b8fe464e96001cd6b5b547f4/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/fd4d5e75413e87b718ca0cfb52783a09/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/fd4d5e75413e87b718ca0cfb52783a09/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bafd73677600743198bbd8d94df8f9e2/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/himanshu/.gradle/caches/transforms-2/files-2.1/bafd73677600743198bbd8d94df8f9e2/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		MERGED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/himanshu/Desktop/Plant-Diseases-Detector/PlantSaver/app/src/main/AndroidManifest.xml

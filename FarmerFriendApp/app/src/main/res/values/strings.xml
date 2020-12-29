@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Farmer Friend</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="title_activity_details">Details</string>
+    <string name="subtitle_1">Symptoms :</string>
+    <string name="subtitle_2">Management :</string>
+</resources>

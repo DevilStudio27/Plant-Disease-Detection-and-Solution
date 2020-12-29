@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="5dp"
+    android:layout_gravity="center"
+    android:padding="8dp"
+    android:background="@drawable/dialog_bg">
+
+    <TextView
+        android:id="@+id/pltd_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="26sp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/colorAccent"
+        android:layout_marginHorizontal="10dp"/>
+
+    <LinearLayout
+        android:id="@+id/border"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/yellow"
+        android:orientation="horizontal"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginVertical="5dp"
+        android:layout_below="@id/pltd_name"/>
+
+    <TextView
+        android:id="@+id/subtitle_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/border"
+        android:text="@string/subtitle_1"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        android:layout_marginVertical="10dp"/>
+
+    <TextView
+        android:id="@+id/symptoms"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="gravity"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:layout_below="@id/subtitle_1"
+        android:layout_marginHorizontal="10dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"/>
+
+    <TextView
+        android:id="@+id/subtitle_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/symptoms"
+        android:text="@string/subtitle_2"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        android:layout_marginVertical="10dp"/>
+
+    <TextView
+        android:id="@+id/management"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="gravity"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:layout_below="@id/subtitle_2"
+        android:layout_marginHorizontal="10dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"/>
+
+</RelativeLayout>
