@@ -3,6 +3,7 @@ apple scab
 apple black rot
 
 apple cedar
+
 apple rust
 
 apple healthy
@@ -30,6 +31,7 @@ grape leaf blight isariopsis leaf spot
 grape healthy
 
 orange haunglongbing citrus greening
+
 peach bacterial spot
 
 peach healthy
