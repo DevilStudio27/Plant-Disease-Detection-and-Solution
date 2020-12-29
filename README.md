@@ -29,7 +29,7 @@
 
 * [About the Project](#about-the-project)
   * [Language Used](#language-used)
-  * [Dataset Used](#dataset-used)
+  * [Files Required](#files-required)
   * [Files](#files)
   * [Inspiration](#inspiration)
 * [Getting Started](#getting-started)
@@ -64,16 +64,21 @@ This project is built using **_Python_** for Machine Learning and **_Kotlin_** f
 * **_PYTHON_** : [Learn Python][learn-python] OR [Python from W3School][python-w3]
 * **_KOTLIN_** : [Learn Kotlin][kotlin]
 
-### Dataset Used
+### Files Required
 
-The dataset used is given below :
-* [newplantvillage.zip][dataset-drive]
+* The dataset file used is given here :
+> [newplantvillage.zip][dataset-drive]
+
+* The json file used is given below: 
+> [data.json][json-drive]
 
 ### Files
 
 * **_data.json_** – This file holds the solution for infected plant, it is used for providing solution when disease match is found and then solution is provided.
+  
+> **`Note: This file is to kept inside project assets folder. Path to the:`** **_`FarmerFriendApp\app\src\main\assets`_**
 * **_Plant_Disease_Detection_Classification.ipynb_** - Notebook for training and testing the models.
-* **_PlantSaverApp/outputs/apk/debug/app-debug.apk_** - APK you can directly install and get started.
+* **_FarmerFriendApp/outputs/apk/debug/app-debug.apk_** - APK you can directly install and get started.
 
 ### Inspiration
 
@@ -217,10 +222,11 @@ Distributed under the MIT License. See [***`LICENSE`***][license-url] for more i
 [python-w3]:https://www.w3schools.com/python/
 [kotlin]:https://developer.android.com/kotlin/campaign/learn
 
-[dataset-drive]:https://drive.google.com/file/d/1_NSQgsds3k9VoEiuXAGMxRN8F6nY_5ip/view?usp=sharing
+[dataset-drive]:http://bit.ly/PlantVDatasetDown
+[json-drive]:http://bit.ly/datajsondown
 
-[python-down]:https://tii.ai/pyhton-donwload
-[conda-ie]:https://tii.ai/anaconda-download
-[vscode-down]:https://tii.ai/vscode-down
-[pycharm-down]:https://tii.ai/pycharm-down
-[setup-anaconda]:https://tii.ai/anaconda-tensorflow-keras
+[python-down]:http://bit.ly/PythonDown
+[conda-ie]:http://bit.ly/CondaDown
+[vscode-down]:http://bit.ly/VSCodeDown
+[pycharm-down]:http://bit.ly/PycharmDown
+[setup-anaconda]:http://bit.ly/setupConda
