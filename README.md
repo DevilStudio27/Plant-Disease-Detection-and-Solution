@@ -223,7 +223,7 @@ Distributed under the MIT License. See [***`LICENSE`***][license-url] for more i
 [python-w3]:https://www.w3schools.com/python/
 [kotlin]:https://developer.android.com/kotlin/campaign/learn
 
-[dataset-drive]:https://bit.ly/PlantDiseaseDataseRequest
+[dataset-dropbox]:https://bit.ly/PlantDiseaseDataseRequest
 [json-drive]:http://bit.ly/datajsondown
 
 [python-down]:http://bit.ly/PythonDown
