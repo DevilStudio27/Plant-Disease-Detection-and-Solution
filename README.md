@@ -68,7 +68,7 @@ This project is built using **_Python_** for Machine Learning and **_Kotlin_** f
 ### Files Required
 
 * The dataset file used is given here :
-> [newplantvillage.zip][dataset-drive]
+> [newplantvillage.zip][dataset-dropbox]
 
 * The json file used is given below: 
 > [data.json][json-drive]
@@ -223,7 +223,7 @@ Distributed under the MIT License. See [***`LICENSE`***][license-url] for more i
 [python-w3]:https://www.w3schools.com/python/
 [kotlin]:https://developer.android.com/kotlin/campaign/learn
 
-[dataset-drive]:http://bit.ly/PlantVDatasetDown
+[dataset-drive]:https://bit.ly/PlantDiseaseDataseRequest
 [json-drive]:http://bit.ly/datajsondown
 
 [python-down]:http://bit.ly/PythonDown
