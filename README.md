@@ -224,7 +224,7 @@ Distributed under the MIT License. See [***`LICENSE`***][license-url] for more i
 [kotlin]:https://developer.android.com/kotlin/campaign/learn
 
 [dataset-dropbox]:https://bit.ly/PlantDiseaseDataseRequest
-[json-drive]:http://bit.ly/datajsondown
+[json-drive]:https://www.buymeacoffee.com/sahilthakur/e/195764
 
 [python-down]:http://bit.ly/PythonDown
 [conda-ie]:http://bit.ly/CondaDown
