@@ -136,6 +136,13 @@ Below screen provides usage of our android app demo.
 <img src="usage/usage.gif" alt="App Usage showcase gif" title="App Usage showcase gif" width="400"/>
 </div>
 
+## Pre-compiled version
+
+`Note: This Pre-compiled version contains files which we received after computing but We have added these as If computing is not possible for system user's .`
+
+> [Pre-Compiled version](https://buymeacoffee.com/sahilthakur/e/248072)
+
+
 ## Challenges And Accomplishments
 
 ### Challenges
