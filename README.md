@@ -140,7 +140,7 @@ Below screen provides usage of our android app demo.
 
 `Note: This Pre-compiled version contains files which we received after computing but We have added these as If computing is not possible for system user's .`
 
-> [Pre-Compiled version](https://buymeacoffee.com/sahilthakur/e/248072)
+> [Pre-Compiled version](https://sahilthakur27.gumroad.com/l/plant_diseas_premade_version)
 
 
 ## Challenges And Accomplishments
@@ -231,7 +231,7 @@ Distributed under the MIT License. See [***`LICENSE`***][license-url] for more i
 [kotlin]:https://developer.android.com/kotlin/campaign/learn
 
 [dataset-onedrive]:https://bit.ly/PlantDiseaseDatasetRequest
-[json-drive]:https://www.buymeacoffee.com/sahilthakur/e/195764
+[json-drive]:https://sahilthakur27.gumroad.com/l/plant_disease_data_json
 
 [python-down]:http://bit.ly/PythonDown
 [conda-ie]:http://bit.ly/CondaDown
