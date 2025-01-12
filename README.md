@@ -1,5 +1,4 @@
 <h1 align="center">Plant-Disease-Detection-and-Solution</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devilstudio27&label=Profile%20views&color=00e5ff&style=flat-square" alt="devilstudio27" /> </p>
 <div align="center" width="100%">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -8,7 +7,7 @@
 </div>
 
 
-<p align="center">Project on Plant disease detection and its solution using Image Classification technique.</p>
+<p align="center">Project on Plant Disease detection and Solutions using Image Classification technique.</p>
 <br>
 
 <div align="center" width="100%">
