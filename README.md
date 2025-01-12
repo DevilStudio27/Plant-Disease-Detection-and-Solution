@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is based on detection of plant diseases using image classification with solution for detected disease of plant. This project comprises of Machine Learning part and Android Application Development part. On Machine Learning side, we developed a well-trained model for image classification which will help to classify the disease of the infected plant. On Android App Dev. part, we click images of infected plant and compare with our classification model, then it detects disease of infected plant and also provides solutions for disease of infected plant.
+This project is based on Plant Disease Detection using Image Classification with Solution for detected disease of plant. This project comprises of Machine Learning part and Android Application Development part. On Machine Learning side, we developed a well-trained model for image classification which will help to classify the disease of the infected plant. On Android App Dev. part, we click images of infected plant and compare with our classification model, then it detects disease of infected plant and also provides solutions for disease of infected plant.
 
 ### Language Used
 
